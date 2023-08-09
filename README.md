@@ -7,3 +7,9 @@ To test te output--
 2. Enter source or tap/click on the map to get exact latitude and longitude.
 3. Enter destination or tap/click on the map to get exact latitude and longitude.
 4. Click on the “Navigate" button.
+
+Output sample with github link-
+https://drive.google.com/file/d/1fMCFEpnMc8zTaEEY5MlIJXNkvb-6Fn8l/view
+
+Output sample with ngrok link-
+https://drive.google.com/file/d/1q3uHRKSONp0XyBo269dg-wbX2UDed2BV/view
